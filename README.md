@@ -1,0 +1,2 @@
+# Exercici-GIT
+Exercici ITAcademy
