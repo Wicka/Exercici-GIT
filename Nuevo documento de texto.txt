@@ -1,5 +1,31 @@
+
 ESTOS SON MIS CAMBIO DESDE MASTER, 
 PRIMERO CREE EL FICHERO EN BLANCO
 LUEGO DESDE BRANCH1 LO LLENE CON CODIGO HTML
 Y AHORA AL PASAR DE RAMA A MASTER LO ENCUENTRO EN BLANCO
 Y ESCRIBO ESTO COMO SI NO SUPIERA NADA DEL CAMBIO DE LA OTRA RAMA.
+
+ <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>
+            Primer Programa
+        </title>
+    </head>
+    <body>
+       
+
+        <h1>Este es mi primer proyecto JavaScript</h1>
+        <p>30 Marzo 2020</p>
+        <form>
+            <input type='button'onclick="printarMensaje()" Value='Cliqua Aqui'/>
+        </form>
+        <p id="demo"></p>
+        <div id='datos'></div>
+
+        <script src='primer.js' type='text/javascript' > </script>       
+        </script>
+    </body>
+</html> 
+
